@@ -13,15 +13,6 @@ The project allows users to:
 
 ---
 
-# 📦 Technologies
-
-- C++
-- STL (`vector`, `algorithm`, `fstream`)
-- Visual Studio
-- Microsoft Native Unit Testing Framework
-
----
-
 # 📁 Project Structure
 
 ```text
@@ -59,7 +50,7 @@ StoreApp/
 
 ---
 
-# 🧪 Unit Tests
+#  Unit Tests
 
 The project includes tests for:
 
@@ -87,7 +78,7 @@ TEST_METHOD(AddProduct_ShouldAddProduct)
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
 ## Requirements
 
@@ -102,7 +93,7 @@ TEST_METHOD(AddProduct_ShouldAddProduct)
 
 ---
 
-# 🧪 Run Tests
+#  Run Tests
 
 Open:
 
@@ -114,7 +105,7 @@ or use **Test Explorer**.
 
 ---
 
-# 📸 Example Menu
+#  Example Menu
 
 ```text
 1. Show Catalog
