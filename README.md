@@ -130,6 +130,4 @@ or use **Test Explorer**.
 
 ---
 
-# 👨‍💻 Author
-
 Created as a C++ learning project using OOP and Unit Testing.
