@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Silpo/Silpo.vcxproj" Id="3d07ae1c-36f3-4cd8-85af-2c7ac85d534f" />
+  <Project Path="UnitTest1/UnitTest1.vcxproj" />
+</Solution>
